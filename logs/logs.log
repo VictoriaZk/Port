@@ -1,0 +1,44 @@
+2019-03-21 10:38:36.892 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 2nd got docks: #2
+2019-03-21 10:38:36.891 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 1st got docks: #1
+2019-03-21 10:38:36.891 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 3rd got docks: #3
+2019-03-21 10:38:36.933 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #2 free
+2019-03-21 10:38:36.933 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 3rd unloaded in docks #3
+2019-03-21 10:38:36.933 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 1st unloaded in docks #1
+2019-03-21 10:38:36.934 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 2nd got docks: #2
+2019-03-21 10:38:36.935 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 1st loaded in docks #1
+2019-03-21 10:38:36.935 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #3 free
+2019-03-21 10:38:36.937 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 2nd loaded in docks #2
+2019-03-21 10:38:36.937 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #2 free
+2019-03-21 10:38:36.938 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #1 free
+2019-03-21 10:38:36.936 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 3rd action is done
+2019-03-21 10:38:36.938 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 2nd action is done
+2019-03-21 10:38:36.938 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 1st action is done
+2019-03-21 10:38:36.939 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 5th got docks: #2
+2019-03-21 10:38:36.939 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 4th got docks: #3
+2019-03-21 10:38:36.939 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 6th got docks: #1
+2019-03-21 10:38:36.940 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 4th unloaded in docks #3
+2019-03-21 10:38:36.940 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 5th unloaded in docks #2
+2019-03-21 10:38:36.941 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #3 free
+2019-03-21 10:38:36.940 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 6th unloaded in docks #1
+2019-03-21 10:38:36.941 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 5th loaded in docks #2
+2019-03-21 10:38:36.941 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #1 free
+2019-03-21 10:38:36.941 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 4th action is done
+2019-03-21 10:38:36.941 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 6th action is done
+2019-03-21 10:38:36.941 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #2 free
+2019-03-21 10:38:36.942 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 5th action is done
+2019-03-21 10:38:36.942 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 7th got docks: #3
+2019-03-21 10:38:36.942 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 9th got docks: #1
+2019-03-21 10:38:36.943 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 9th unloaded in docks #1
+2019-03-21 10:38:36.943 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 8th got docks: #2
+2019-03-21 10:38:36.943 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #1 free
+2019-03-21 10:38:36.944 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 8th unloaded in docks #2
+2019-03-21 10:38:36.943 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 7th loaded in docks #3
+2019-03-21 10:38:36.944 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #2 free
+2019-03-21 10:38:36.944 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 9th action is done
+2019-03-21 10:38:36.944 [pool-2-thread-3] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 8th action is done
+2019-03-21 10:38:36.944 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 10th got docks: #1
+2019-03-21 10:38:36.945 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #3 free
+2019-03-21 10:38:36.946 [pool-2-thread-1] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 7th action is done
+2019-03-21 10:38:36.946 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 10th loaded in docks #1
+2019-03-21 10:38:36.947 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Port - docks #1 free
+2019-03-21 10:38:36.948 [pool-2-thread-2] INFO  by.epam.training.victoriazhak.task3.entity.Ship - 10th action is done
